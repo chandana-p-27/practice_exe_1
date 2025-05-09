@@ -1,0 +1,7 @@
+"venv/" 
+"*.pyc" 
+"data/*.csv" 
+"venv/" 
+"*.pyc" 
+"data/*.csv" 
+/iris_data.csv
